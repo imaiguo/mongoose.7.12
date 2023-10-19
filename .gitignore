@@ -1,0 +1,4 @@
+.vscode
+build
+apps/httpClient/mongoose/
+apps/httpServer/mongoose/
