@@ -1,4 +1,5 @@
-.vscode
 build
-apps/httpClient/mongoose/
-apps/httpServer/mongoose/
+*.exe
+*.ilk
+*.obj
+*.pdb

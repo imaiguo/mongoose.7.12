@@ -7,7 +7,7 @@
 //
 // To enable SSL/TLS, , see https://mongoose.ws/tutorials/tls/#how-to-build
 
-#include "mongoose.h"
+#include "../mongoose.c"
 
 // The very first web page in history. You can replace it from command line
 // static const char *s_url = "http://info.cern.ch/";

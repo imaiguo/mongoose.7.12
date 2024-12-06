@@ -3,10 +3,7 @@
 
 #include <signal.h>
 
-extern "C"
-{
-    #include "mongoose.h"
-}
+#include "../mongoose.c"
 
 static int s_debug_level = MG_LL_INFO;
 static const char *s_root_dir = ".";
